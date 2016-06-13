@@ -1,0 +1,32 @@
+positivas
+
+
+4-world ok
+5-both ok
+6-young ok
+7-music ok
+8-own ok
+9-always ok
+12-actors(?) ok
+15-may ok 
+17-between ok 
+19-role ok
+22-series ok
+23-performance
+24-comedy
+25-times
+26-excellent
+27-each
+29-war
+30-family
+31-fun
+32-bit
+33-dvd (?)
+34-feel
+35-played
+36-especially
+37-shows
+38-last
+39-tv
+40-beautiful
+41-different
